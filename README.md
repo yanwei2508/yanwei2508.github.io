@@ -4,7 +4,11 @@
 
 - First, we'll look into Elasticsearch
 - Then we'll set geohashing
-- Finally, we'll celebrate!
+- Finally, we'll **celebrate!**
+
+---
+
+Here's a [link](https://www.linkedin.com/in/%E7%87%95%E4%BC%9F-%E8%AE%B8-ba37b2b1/) to my LinkedIn profile
 
 ```
 public static ISearchResponse<Bank> esSearchNumber()
