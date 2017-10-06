@@ -1,0 +1,1942 @@
+{
+  "type": "FeatureCollection",
+  "name": "export",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2724",
+        "Name": "AUTOCLAUS V/CLAUS SONNICHSEN",
+        "Address": "Haderslevvej 145",
+        "AreaCode": 6000,
+        "City": "Kolding",
+        "State": "NULL",
+        "Latitude": 55.475009014017303,
+        "Longitude": 9.4699673315296593,
+        "IsFavorite": 0,
+        "LatestActi": "2016-04-26 08:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.469967331529659, 55.475009014017303 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "3312",
+        "Name": "EGELY MURERFORRETNING ApS",
+        "Address": "Dalbyvej 45",
+        "AreaCode": 6000,
+        "City": "Kolding",
+        "State": "NULL",
+        "Latitude": 55.462646036038102,
+        "Longitude": 9.4941767700293695,
+        "IsFavorite": 0,
+        "LatestActi": "2017-04-18 09:23:34 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.49417677002937, 55.462646036038102 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "4425",
+        "Name": "Claus T Schmidt",
+        "Address": "Skovrupvej 56",
+        "AreaCode": 6070,
+        "City": "Christiansfeld",
+        "State": "NULL",
+        "Latitude": 55.377223251512,
+        "Longitude": 9.4465586922482601,
+        "IsFavorite": 0,
+        "LatestActi": "2017-02-28 10:19:19 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.44655869224826, 55.377223251512 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "5532",
+        "Name": "BC CATERING KOLDING A/S",
+        "Address": "Kokbjerg 28",
+        "AreaCode": 6000,
+        "City": "Kolding",
+        "State": "NULL",
+        "Latitude": 55.537461925608298,
+        "Longitude": 9.4823298565683398,
+        "IsFavorite": 0,
+        "LatestActi": "2015-10-05 09:51:00 +0000",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.48232985656834, 55.537461925608298 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "5533",
+        "Name": "BILKA",
+        "Address": "Skovvangen 42",
+        "AreaCode": 6000,
+        "City": "Kolding",
+        "State": "NULL",
+        "Latitude": 55.513907923923703,
+        "Longitude": 9.4600662699778901,
+        "IsFavorite": 0,
+        "LatestActi": "2016-09-14 08:34:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.46006626997789, 55.513907923923703 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "7433",
+        "Name": "Intertek Academy A/S",
+        "Address": "Vejstrupr?dvej 31",
+        "AreaCode": 6093,
+        "City": "Sj?lund",
+        "State": "NULL",
+        "Latitude": 55.381225829873898,
+        "Longitude": 9.5231876854612505,
+        "IsFavorite": 0,
+        "LatestActi": "2016-05-16 08:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.52318768546125, 55.381225829873898 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "9066",
+        "Name": "B?rnehaven S?nderled",
+        "Address": "S?nderled 13",
+        "AreaCode": 6000,
+        "City": "Kolding",
+        "State": "NULL",
+        "Latitude": 55.518373245954599,
+        "Longitude": 9.4588128605079902,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.45881286050799, 55.518373245954599 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "9072",
+        "Name": "Sygehuskiosken v/Long Nguyen",
+        "Address": "Skovvangen 2",
+        "AreaCode": 6000,
+        "City": "Kolding",
+        "State": "NULL",
+        "Latitude": 55.500845002587802,
+        "Longitude": 9.4835869997390692,
+        "IsFavorite": 0,
+        "LatestActi": "2016-03-01 09:46:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.483586999739069, 55.500845002587802 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "10248",
+        "Name": "SvalaFit",
+        "Address": "Smallegade 50",
+        "AreaCode": 2000,
+        "City": "Frederiksberg",
+        "State": "NULL",
+        "Latitude": 55.679664771024001,
+        "Longitude": 12.5229510992099,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.5229510992099, 55.679664771024001 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "11712",
+        "Name": "De ?stlige ?ers RDM-forening",
+        "Address": "Assendrupvej 10",
+        "AreaCode": 4690,
+        "City": "Haslev",
+        "State": "NULL",
+        "Latitude": 55.333637167158699,
+        "Longitude": 11.845543152241399,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 11.845543152241399, 55.333637167158699 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "12761",
+        "Name": "BJ Cykler v/ Kim Brian Madsen",
+        "Address": "Ejlersvej 7",
+        "AreaCode": 4700,
+        "City": "N?stved",
+        "State": "NULL",
+        "Latitude": 55.2326208541051,
+        "Longitude": 11.7750223687573,
+        "IsFavorite": 0,
+        "LatestActi": "2016-04-28 11:22:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 11.7750223687573, 55.2326208541051 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "12783",
+        "Name": "B?RGE JAKOBSEN & S?N  N?STVED A/S",
+        "Address": "Ellevej 3",
+        "AreaCode": 4700,
+        "City": "N?stved",
+        "State": "NULL",
+        "Latitude": 55.239152309928599,
+        "Longitude": 11.764293085978199,
+        "IsFavorite": 0,
+        "LatestActi": "2015-08-03 08:00:00 +0000",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 11.764293085978199, 55.239152309928599 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "15195",
+        "Name": "Kildekiosken I/S v/Nancy Taanning J?rgensen og Peter Sternberg J?rgensen",
+        "Address": "Kildemarksvej 20",
+        "AreaCode": 4700,
+        "City": "N?stved",
+        "State": "NULL",
+        "Latitude": 55.229669160809699,
+        "Longitude": 11.7711045188874,
+        "IsFavorite": 0,
+        "LatestActi": "2016-06-01 07:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 11.7711045188874, 55.229669160809699 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "18413",
+        "Name": "ASK 2011 ApS",
+        "Address": "Brunebanke 66",
+        "AreaCode": 4330,
+        "City": "Hvals?",
+        "State": "NULL",
+        "Latitude": 55.588552623120798,
+        "Longitude": 11.8563283960974,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-01 09:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 11.8563283960974, 55.588552623120798 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "19457",
+        "Name": "Sydsj?llands Reng?ringsservice",
+        "Address": "Bag Banen 5",
+        "AreaCode": 4684,
+        "City": "Holmegaard",
+        "State": "NULL",
+        "Latitude": 55.264159097737497,
+        "Longitude": 11.853167237578401,
+        "IsFavorite": 0,
+        "LatestActi": "2017-03-02 09:47:49 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 11.853167237578401, 55.264159097737497 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "21665",
+        "Name": "PR MEKANIK OG PRODUKTION/ PETER REINDEL",
+        "Address": "Fladmosevej 26",
+        "AreaCode": 5620,
+        "City": "Glamsbjerg",
+        "State": "NULL",
+        "Latitude": 55.264915129193199,
+        "Longitude": 10.0966346689106,
+        "IsFavorite": 0,
+        "LatestActi": "2015-10-23 11:25:00 +0000",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 10.0966346689106, 55.264915129193199 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "23839",
+        "Name": "D?RUP & OMEGNS VANDV?RK",
+        "Address": "D?rupvej 46",
+        "AreaCode": 5620,
+        "City": "Glamsbjerg",
+        "State": "NULL",
+        "Latitude": 55.278232728019901,
+        "Longitude": 10.0853495063406,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 10.0853495063406, 55.278232728019901 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "24726",
+        "Name": "Bryggermarken 1",
+        "Address": "Bryggermarken 2",
+        "AreaCode": 5620,
+        "City": "Glamsbjerg",
+        "State": "NULL",
+        "Latitude": 55.2786860080938,
+        "Longitude": 10.1023232110196,
+        "IsFavorite": 0,
+        "LatestActi": "2015-09-22 08:31:00 +0000",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 10.1023232110196, 55.2786860080938 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "25907",
+        "Name": "stokholm t?mrer og bygge service",
+        "Address": "Teglv?rksvej 11",
+        "AreaCode": 5620,
+        "City": "Glamsbjerg",
+        "State": "NULL",
+        "Latitude": 55.278096713524199,
+        "Longitude": 10.104575418287,
+        "IsFavorite": 0,
+        "LatestActi": "2015-09-07 09:37:00 +0000",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 10.104575418287, 55.278096713524199 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2165554",
+        "Name": "PCR-Kontorinventar v/ Poul Cederlund Rafn",
+        "Address": "Vinhaven 17",
+        "AreaCode": 2500,
+        "City": "Valby",
+        "State": "NULL",
+        "Latitude": 55.6482913472028,
+        "Longitude": 12.5003801400825,
+        "IsFavorite": 0,
+        "LatestActi": "2017-02-28 06:38:21 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.5003801400825, 55.6482913472028 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2165629",
+        "Name": "SP Catering",
+        "Address": "Farverland 4",
+        "AreaCode": 2600,
+        "City": "Glostrup",
+        "State": "NULL",
+        "Latitude": 55.6812003225116,
+        "Longitude": 12.383507725022399,
+        "IsFavorite": 0,
+        "LatestActi": "2017-01-26 13:01:09 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.383507725022399, 55.6812003225116 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2165635",
+        "Name": "Sundkrop Nu v/Bjarke Tiedemann",
+        "Address": "Hammelstrupvej 12",
+        "AreaCode": 2450,
+        "City": "K?benhavn Sv",
+        "State": "NULL",
+        "Latitude": 55.647334183863499,
+        "Longitude": 12.525716514891901,
+        "IsFavorite": 0,
+        "LatestActi": "2017-03-28 08:00:00 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.525716514891901, 55.647334183863499 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2165996",
+        "Name": "Le Bix  Majg?rden  v/S  Skovh?j",
+        "Address": "T?mmerupvej 64",
+        "AreaCode": 2770,
+        "City": "Kastrup",
+        "State": "NULL",
+        "Latitude": 55.6093164351905,
+        "Longitude": 12.6141236904532,
+        "IsFavorite": 0,
+        "LatestActi": "2017-03-27 08:19:47 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.6141236904532, 55.6093164351905 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2167030",
+        "Name": "Recover - Godtpolstret v/Heidi Lauritzen",
+        "Address": "Lindevej 6",
+        "AreaCode": 2791,
+        "City": "Drag?r",
+        "State": "NULL",
+        "Latitude": 55.569340297327301,
+        "Longitude": 12.6122365820287,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.6122365820287, 55.569340297327301 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2169632",
+        "Name": "Psykolog Lene Chravach Larsen",
+        "Address": "Fasanv?nget 85",
+        "AreaCode": 2791,
+        "City": "Drag?r",
+        "State": "NULL",
+        "Latitude": 55.587070036884199,
+        "Longitude": 12.654686743693601,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.654686743693601, 55.587070036884199 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2192705",
+        "Name": "NETTO",
+        "Address": "Gammel K?ge Landevej 198",
+        "AreaCode": 2500,
+        "City": "Valby",
+        "State": "NULL",
+        "Latitude": 55.643242035512998,
+        "Longitude": 12.501403560650299,
+        "IsFavorite": 0,
+        "LatestActi": "2017-02-07 13:11:18 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.501403560650299, 55.643242035512998 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2193441",
+        "Name": "NETTO",
+        "Address": "Amagerbrogade 54",
+        "AreaCode": 2300,
+        "City": "K?benhavn S",
+        "State": "NULL",
+        "Latitude": 55.662622382412103,
+        "Longitude": 12.602068672116999,
+        "IsFavorite": 0,
+        "LatestActi": "2017-03-27 07:15:00 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.602068672116999, 55.662622382412103 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2198556",
+        "Name": "AMBIOS ApS",
+        "Address": "Ledreborg Alle 2",
+        "AreaCode": 4320,
+        "City": "Lejre",
+        "State": "NULL",
+        "Latitude": 55.605476016438601,
+        "Longitude": 11.950343056815701,
+        "IsFavorite": 0,
+        "LatestActi": "2017-06-15 06:48:36 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 11.950343056815701, 55.605476016438601 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2202538",
+        "Name": "KL",
+        "Address": "Weidekampsgade 10",
+        "AreaCode": 2300,
+        "City": "K?benhavn S",
+        "State": "NULL",
+        "Latitude": 55.667689978822303,
+        "Longitude": 12.582144298534001,
+        "IsFavorite": 0,
+        "LatestActi": "2016-09-28 07:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.582144298534001, 55.667689978822303 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2238495",
+        "Name": "Down Dog Code",
+        "Address": "Nordre Fasanvej 146",
+        "AreaCode": 2000,
+        "City": "Frederiksberg",
+        "State": "NULL",
+        "Latitude": 55.692581567358197,
+        "Longitude": 12.5322047166103,
+        "IsFavorite": 0,
+        "LatestActi": "2017-03-26 08:00:00 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.5322047166103, 55.692581567358197 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2259457",
+        "Name": "AKUPUNKT?R METTE FRANDSEN",
+        "Address": "Eg?jevej 124",
+        "AreaCode": 4600,
+        "City": "K?ge",
+        "State": "NULL",
+        "Latitude": 55.434162596161002,
+        "Longitude": 12.181856174407001,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.181856174407001, 55.434162596161002 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2260001",
+        "Name": "Psykolog Flemming Jensager",
+        "Address": "?lbyvej 140",
+        "AreaCode": 4600,
+        "City": "K?ge",
+        "State": "NULL",
+        "Latitude": 55.484533539692201,
+        "Longitude": 12.1463511442672,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.1463511442672, 55.484533539692201 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2260702",
+        "Name": "1 - Design v/Jesper Drygaard",
+        "Address": "Egeb?kv?nge 3",
+        "AreaCode": 4600,
+        "City": "K?ge",
+        "State": "NULL",
+        "Latitude": 55.4997265269567,
+        "Longitude": 12.190221978306701,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.190221978306701, 55.4997265269567 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2260728",
+        "Name": "LANDMAND IB PEDERSEN",
+        "Address": "Salbyvej 62",
+        "AreaCode": 4600,
+        "City": "K?ge",
+        "State": "NULL",
+        "Latitude": 55.472640386708598,
+        "Longitude": 12.1392618862677,
+        "IsFavorite": 0,
+        "LatestActi": "2017-02-10 07:21:44 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.1392618862677, 55.472640386708598 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2261380",
+        "Name": "TANDL?GE JESPER THOMSEN ApS",
+        "Address": "Oksb?lvej 14",
+        "AreaCode": 4600,
+        "City": "K?ge",
+        "State": "NULL",
+        "Latitude": 55.474292872186801,
+        "Longitude": 12.158997599354599,
+        "IsFavorite": 0,
+        "LatestActi": "2015-09-23 19:58:49 +0000",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.158997599354599, 55.474292872186801 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2261510",
+        "Name": "HH BYG K?GE ApS",
+        "Address": "Vordingborgvej 25",
+        "AreaCode": 4600,
+        "City": "K?ge",
+        "State": "NULL",
+        "Latitude": 55.444497796652598,
+        "Longitude": 12.1709893368987,
+        "IsFavorite": 0,
+        "LatestActi": "2016-10-02 08:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.1709893368987, 55.444497796652598 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2261739",
+        "Name": "VVS Eksperten A/S",
+        "Address": "Valdemarshaab 10",
+        "AreaCode": 4600,
+        "City": "K?ge",
+        "State": "NULL",
+        "Latitude": 55.4759596068915,
+        "Longitude": 12.190585241874199,
+        "IsFavorite": 0,
+        "LatestActi": "2017-03-21 18:56:59 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.190585241874199, 55.4759596068915 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2262004",
+        "Name": "K?GE KOMMUNE BESK?FTIGELSESSEKRETARIATET",
+        "Address": "Torvet 1",
+        "AreaCode": 4600,
+        "City": "K?ge",
+        "State": "NULL",
+        "Latitude": 55.456554412841797,
+        "Longitude": 12.18280124664307,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.18280124664307, 55.456554412841797 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2262739",
+        "Name": "CP KELCO ApS",
+        "Address": "Ved Banen 16",
+        "AreaCode": 4623,
+        "City": "Lille Skensved",
+        "State": "NULL",
+        "Latitude": 55.509386923836701,
+        "Longitude": 12.142718743068,
+        "IsFavorite": 0,
+        "LatestActi": "2016-10-06 07:17:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.142718743068, 55.509386923836701 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2264654",
+        "Name": "NIELS JUELSGADE 6 ApS",
+        "Address": "Oksb?lvej 7",
+        "AreaCode": 4600,
+        "City": "K?ge",
+        "State": "NULL",
+        "Latitude": 55.472744175808998,
+        "Longitude": 12.1576317769446,
+        "IsFavorite": 0,
+        "LatestActi": "2016-04-15 17:44:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.1576317769446, 55.472744175808998 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2266230",
+        "Name": "Beslagsmed Rune Paulsen",
+        "Address": "Dyndetvej 15",
+        "AreaCode": 4140,
+        "City": "Borup",
+        "State": "NULL",
+        "Latitude": 55.476674058113197,
+        "Longitude": 11.9596200559333,
+        "IsFavorite": 0,
+        "LatestActi": "2016-05-31 08:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 11.9596200559333, 55.476674058113197 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2269502",
+        "Name": "Dyrevilla v/Benny Bork Petersen",
+        "Address": "Nordmarksvej 23",
+        "AreaCode": 2690,
+        "City": "Karlslunde",
+        "State": "NULL",
+        "Latitude": 55.552296849649998,
+        "Longitude": 12.196756864758401,
+        "IsFavorite": 0,
+        "LatestActi": "2017-01-23 12:30:00 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.196756864758401, 55.552296849649998 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2272958",
+        "Name": "LINDEG?RDEN V/JENS BO CHRISTOPHERSEN",
+        "Address": "Troldebjergvej 3",
+        "AreaCode": 3370,
+        "City": "Melby",
+        "State": "NULL",
+        "Latitude": 55.991845367924498,
+        "Longitude": 11.9814112902567,
+        "IsFavorite": 0,
+        "LatestActi": "2016-08-25 14:43:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 11.9814112902567, 55.991845367924498 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2273594",
+        "Name": "Gl Langeskov Erhvervsm?llelaug I/SChristian og Kathleene Jermiin",
+        "Address": "Seinhuusvej 10",
+        "AreaCode": 4672,
+        "City": "Klippinge",
+        "State": "NULL",
+        "Latitude": 55.328401464360397,
+        "Longitude": 12.3329602973562,
+        "IsFavorite": 0,
+        "LatestActi": "2016-10-19 19:30:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.3329602973562, 55.328401464360397 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2274878",
+        "Name": "Dansk Boligventilation v/ Knud Hviid Jensen",
+        "Address": "James Tobins Alle 32",
+        "AreaCode": 9220,
+        "City": "Aalborg ?st",
+        "State": "NULL",
+        "Latitude": 57.012034286342796,
+        "Longitude": 9.9663325572826995,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-10 08:04:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.9663325572827, 57.012034286342796 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2274923",
+        "Name": "ECOSPEC SCANDINAVIA ApS",
+        "Address": "Havnegade 50",
+        "AreaCode": 5000,
+        "City": "Odense C",
+        "State": "NULL",
+        "Latitude": 55.417788387892102,
+        "Longitude": 10.3803189254737,
+        "IsFavorite": 0,
+        "LatestActi": "2015-10-05 07:06:00 +0000",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 10.3803189254737, 55.417788387892102 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2277487",
+        "Name": "AVIATEC V/JEPPE TROELSEN",
+        "Address": "Lufthavnsvej 100",
+        "AreaCode": 9400,
+        "City": "N?rresundby",
+        "State": "NULL",
+        "Latitude": 57.085111539379,
+        "Longitude": 9.8735358754908908,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-10 12:27:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.873535875490891, 57.085111539379 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2283403",
+        "Name": "Bsign v/Birgitte Thomsen",
+        "Address": "B?lowsvej 50",
+        "AreaCode": 1870,
+        "City": "Frederiksberg C",
+        "State": "NULL",
+        "Latitude": 55.684774994963597,
+        "Longitude": 12.5474321990423,
+        "IsFavorite": 0,
+        "LatestActi": "2016-05-03 08:29:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.5474321990423, 55.684774994963597 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2293083",
+        "Name": "S?derup Malerfirma v/Bill Ertner",
+        "Address": "S?derupvej 77",
+        "AreaCode": 9260,
+        "City": "Gistrup",
+        "State": "NULL",
+        "Latitude": 56.9680445291336,
+        "Longitude": 9.9831497169404901,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-10 08:04:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.98314971694049, 56.9680445291336 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2293535",
+        "Name": "PALLE HANSEN",
+        "Address": "Skovs-H?jrup-Vej 115",
+        "AreaCode": 5270,
+        "City": "Odense N",
+        "State": "NULL",
+        "Latitude": 55.4474252395311,
+        "Longitude": 10.2584589212567,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-30 09:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 10.2584589212567, 55.4474252395311 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2303313",
+        "Name": "UDLEJER JENS MARTIN PEDERSEN",
+        "Address": "Egholm 27",
+        "AreaCode": 9000,
+        "City": "Aalborg",
+        "State": "NULL",
+        "Latitude": 57.068942594312702,
+        "Longitude": 9.8574434834534106,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.857443483453411, 57.068942594312702 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2305090",
+        "Name": "AL haveservice v/Anders Lund Nielsen",
+        "Address": "Sortevej 7",
+        "AreaCode": 4660,
+        "City": "Store Heddinge",
+        "State": "NULL",
+        "Latitude": 55.297459484656699,
+        "Longitude": 12.381276511127201,
+        "IsFavorite": 0,
+        "LatestActi": "2017-04-20 07:28:26 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.381276511127201, 55.297459484656699 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2328512",
+        "Name": "KJ  Sport v/Kay Jensen",
+        "Address": "Oppelstrup Bygade 29",
+        "AreaCode": 9260,
+        "City": "Gistrup",
+        "State": "NULL",
+        "Latitude": 56.950409913475198,
+        "Longitude": 9.9878511173062208,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-11 09:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.987851117306221, 56.950409913475198 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2361036",
+        "Name": "EB-merceng v/Peder Worm Bader",
+        "Address": "Gl Strandvej 5",
+        "AreaCode": 4640,
+        "City": "Faxe",
+        "State": "NULL",
+        "Latitude": 55.252633185803397,
+        "Longitude": 12.1263015283411,
+        "IsFavorite": 0,
+        "LatestActi": "2015-11-18 12:09:00 +0000",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.1263015283411, 55.252633185803397 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2385053",
+        "Name": "J-bog v/Ole Gold",
+        "Address": "Vejlebrovej 93",
+        "AreaCode": 2635,
+        "City": "Ish?j",
+        "State": "NULL",
+        "Latitude": 55.618717314045803,
+        "Longitude": 12.3670744972728,
+        "IsFavorite": 0,
+        "LatestActi": "2016-02-22 12:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.3670744972728, 55.618717314045803 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2418233",
+        "Name": "Textmaster",
+        "Address": "Fyrreparken 32",
+        "AreaCode": 8400,
+        "City": "Ebeltoft",
+        "State": "NULL",
+        "Latitude": 56.178814390485201,
+        "Longitude": 10.6819464376083,
+        "IsFavorite": 0,
+        "LatestActi": "2016-03-14 09:30:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 10.6819464376083, 56.178814390485201 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2419194",
+        "Name": "Slotsbyens Anl?gsgartner v/ Kevin Juel Askham",
+        "Address": "Edvard Thomsens Vej 19",
+        "AreaCode": 2300,
+        "City": "K?benhavn S",
+        "State": "NULL",
+        "Latitude": 55.633202403139002,
+        "Longitude": 12.573964171699,
+        "IsFavorite": 0,
+        "LatestActi": "2017-06-07 09:15:00 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.573964171699, 55.633202403139002 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2439430",
+        "Name": "GRINDSTED TRAFIKSKOLE APS",
+        "Address": "Plagborgvej 4",
+        "AreaCode": 7200,
+        "City": "Grindsted",
+        "State": "NULL",
+        "Latitude": 55.7516368711306,
+        "Longitude": 8.9413873643449193,
+        "IsFavorite": 0,
+        "LatestActi": "2015-11-20 09:00:00 +0000",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 8.941387364344919, 55.7516368711306 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2451614",
+        "Name": "NETTO BENZIN V/FLEMMING KNUDSEN",
+        "Address": "Vestergade 4",
+        "AreaCode": 9620,
+        "City": "Aalestrup",
+        "State": "NULL",
+        "Latitude": 56.694207187908198,
+        "Longitude": 9.49466216385321,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-10 09:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.49466216385321, 56.694207187908198 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2455144",
+        "Name": "APS SMBK NR 928 POSTBOKS 109",
+        "Address": "Teglg?rden 1",
+        "AreaCode": 3400,
+        "City": "Hiller?d",
+        "State": "NULL",
+        "Latitude": 55.9527239434424,
+        "Longitude": 12.293107902973199,
+        "IsFavorite": 0,
+        "LatestActi": "2016-09-05 09:23:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.293107902973199, 55.9527239434424 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2466091",
+        "Name": "RIISGAARD LARS DAUGAARD-HANSEN",
+        "Address": "Vandlingvej 105",
+        "AreaCode": 6100,
+        "City": "Haderslev",
+        "State": "NULL",
+        "Latitude": 55.2313574927243,
+        "Longitude": 9.5139415063849206,
+        "IsFavorite": 0,
+        "LatestActi": "2017-05-03 08:00:00 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.513941506384921, 55.2313574927243 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2476646",
+        "Name": "DEKRA AMU CENTER MIDTJYLLAND ApS",
+        "Address": "Logistikparken 5",
+        "AreaCode": 8220,
+        "City": "Brabrand",
+        "State": "NULL",
+        "Latitude": 56.1622958018311,
+        "Longitude": 10.0665373483231,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 10.0665373483231, 56.1622958018311 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2486159",
+        "Name": "VESTRE SKOLES SKOLEFRITIDSORDNING",
+        "Address": "Posthaven 2",
+        "AreaCode": 8500,
+        "City": "Grenaa",
+        "State": "NULL",
+        "Latitude": 56.413282818637597,
+        "Longitude": 10.871117392028999,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-30 09:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 10.871117392028999, 56.413282818637597 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2486181",
+        "Name": "SFO Solh?jen",
+        "Address": "Gl Strandvej 2",
+        "AreaCode": 4640,
+        "City": "Faxe",
+        "State": "NULL",
+        "Latitude": 55.253592831870101,
+        "Longitude": 12.1240745990879,
+        "IsFavorite": 0,
+        "LatestActi": "2015-12-16 12:00:00 +0000",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.1240745990879, 55.253592831870101 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2491675",
+        "Name": "Guldbageren Vestbyen v/Benny Preben Andersen",
+        "Address": "Kastetvej 115",
+        "AreaCode": 9000,
+        "City": "Aalborg",
+        "State": "NULL",
+        "Latitude": 57.055346305881699,
+        "Longitude": 9.8947155774274407,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.894715577427441, 57.055346305881699 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2494488",
+        "Name": "HADERSLEV FJERNVARME AMBA",
+        "Address": "Fjordagervej 15",
+        "AreaCode": 6100,
+        "City": "Haderslev",
+        "State": "NULL",
+        "Latitude": 55.247501373291023,
+        "Longitude": 9.5023469924926758,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-03 10:30:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.502346992492676, 55.247501373291023 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2497117",
+        "Name": "SOR? AKADEMIS SKOLE",
+        "Address": "Akademigrunden 8",
+        "AreaCode": 4180,
+        "City": "Sor?",
+        "State": "NULL",
+        "Latitude": 55.429461545891698,
+        "Longitude": 11.557303005469301,
+        "IsFavorite": 0,
+        "LatestActi": "2016-01-19 12:50:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 11.557303005469301, 55.429461545891698 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2498513",
+        "Name": "Danish Crown A/S",
+        "Address": "Bragesvej 18",
+        "AreaCode": 4100,
+        "City": "Ringsted",
+        "State": "NULL",
+        "Latitude": 55.429277627195603,
+        "Longitude": 11.798536535143199,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 11.798536535143199, 55.429277627195603 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2546370",
+        "Name": "X-YACHTS A/S - Administration",
+        "Address": "Fjordagervej 21",
+        "AreaCode": 6100,
+        "City": "Haderslev",
+        "State": "NULL",
+        "Latitude": 55.248778929148799,
+        "Longitude": 9.5039852309896293,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-03 08:37:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.503985230989629, 55.248778929148799 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2547479",
+        "Name": "F?RUP SOMMERLAND A/S",
+        "Address": "Pirupvejen 147",
+        "AreaCode": 9492,
+        "City": "Blokhus",
+        "State": "NULL",
+        "Latitude": 57.266672284847502,
+        "Longitude": 9.6453770306424698,
+        "IsFavorite": 0,
+        "LatestActi": "2015-07-19 08:00:00 +0000",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.64537703064247, 57.266672284847502 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2554782",
+        "Name": "STENO SKOLEN",
+        "Address": "Jernbanegade 5",
+        "AreaCode": 4900,
+        "City": "Nakskov",
+        "State": "NULL",
+        "Latitude": 54.832576751708977,
+        "Longitude": 11.13793277740479,
+        "IsFavorite": 0,
+        "LatestActi": "2017-03-25 12:06:24 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 11.13793277740479, 54.832576751708977 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2557842",
+        "Name": "Plejedistrikt Hjortebro",
+        "Address": "Hjortebrovej 44",
+        "AreaCode": 6100,
+        "City": "Haderslev",
+        "State": "NULL",
+        "Latitude": 55.236153272090696,
+        "Longitude": 9.4925122421095391,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-03 08:37:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.492512242109539, 55.236153272090696 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2559899",
+        "Name": "Operaen i Midten",
+        "Address": "Den R?de Plads 16",
+        "AreaCode": 7500,
+        "City": "Holstebro",
+        "State": "NULL",
+        "Latitude": 56.356587969349199,
+        "Longitude": 8.6163235292363805,
+        "IsFavorite": 0,
+        "LatestActi": "2017-03-23 09:00:00 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 8.61632352923638, 56.356587969349199 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2571160",
+        "Name": "T H  S VVS OG BLIK ApS",
+        "Address": "Bolderslev Hovedgade 4",
+        "AreaCode": 6392,
+        "City": "Bolderslev",
+        "State": "NULL",
+        "Latitude": 54.992320874243198,
+        "Longitude": 9.2798439343218302,
+        "IsFavorite": 0,
+        "LatestActi": "2016-09-27 08:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.27984393432183, 54.992320874243198 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2588772",
+        "Name": "H C ANDERSEN BAGERG?RDEN A/S",
+        "Address": "Sverigesvej 3",
+        "AreaCode": 6100,
+        "City": "Haderslev",
+        "State": "NULL",
+        "Latitude": 55.260840483487698,
+        "Longitude": 9.4759839646219195,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-03 07:59:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.475983964621919, 55.260840483487698 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2590179",
+        "Name": "NORISOL A/S",
+        "Address": "Industrivej 33",
+        "AreaCode": 4230,
+        "City": "Sk?lsk?r",
+        "State": "NULL",
+        "Latitude": 55.2543564554501,
+        "Longitude": 11.3219829943835,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 11.3219829943835, 55.2543564554501 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2598836",
+        "Name": "JOMANI 09 ApS",
+        "Address": "Hjortev?nget 9",
+        "AreaCode": 6100,
+        "City": "Haderslev",
+        "State": "NULL",
+        "Latitude": 55.239975358535901,
+        "Longitude": 9.4988203570013994,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-03 08:37:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.498820357001399, 55.239975358535901 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2612835",
+        "Name": "Grenaa Billard Club",
+        "Address": "K?rvej 11",
+        "AreaCode": 8500,
+        "City": "Grenaa",
+        "State": "NULL",
+        "Latitude": 56.413318050195102,
+        "Longitude": 10.8683749825561,
+        "IsFavorite": 0,
+        "LatestActi": "2016-09-20 08:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 10.8683749825561, 56.413318050195102 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2617167",
+        "Name": "Nordschleswigsche Musikvereinigung",
+        "Address": "Nygade 28",
+        "AreaCode": 6270,
+        "City": "T?nder",
+        "State": "NULL",
+        "Latitude": 54.943869206099201,
+        "Longitude": 8.8700392111883097,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-02 09:12:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 8.87003921118831, 54.943869206099201 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2628336",
+        "Name": "LENICO ApS",
+        "Address": "Raklev H?je 106",
+        "AreaCode": 4400,
+        "City": "Kalundborg",
+        "State": "NULL",
+        "Latitude": 55.701233259981201,
+        "Longitude": 11.0844014293728,
+        "IsFavorite": 0,
+        "LatestActi": "2016-12-02 10:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 11.0844014293728, 55.701233259981201 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2659015",
+        "Name": "PETER KNUDSEN INVEST ApS",
+        "Address": "Gr?deb?lvej 17",
+        "AreaCode": 6100,
+        "City": "Haderslev",
+        "State": "NULL",
+        "Latitude": 55.207789607568898,
+        "Longitude": 9.4884112159215697,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-03 13:46:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.48841121592157, 55.207789607568898 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2661082",
+        "Name": "OKTOBER BYGGERI APS",
+        "Address": "Kyseborgstr?de 14",
+        "AreaCode": 5700,
+        "City": "Svendborg",
+        "State": "NULL",
+        "Latitude": 55.058360430474004,
+        "Longitude": 10.6076906724909,
+        "IsFavorite": 0,
+        "LatestActi": "2016-01-08 09:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 10.6076906724909, 55.058360430474004 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2665162",
+        "Name": "FINN BUHL INVEST APS",
+        "Address": "Rosengade 59",
+        "AreaCode": 6600,
+        "City": "Vejen",
+        "State": "NULL",
+        "Latitude": 55.477998635624502,
+        "Longitude": 9.1481894193334394,
+        "IsFavorite": 0,
+        "LatestActi": "2016-05-17 08:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.148189419333439, 55.477998635624502 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2729558",
+        "Name": "STEVNS VARMEPUMPE TEKNIK ApS",
+        "Address": "Maglebyvej 7",
+        "AreaCode": 4671,
+        "City": "Str?by",
+        "State": "NULL",
+        "Latitude": 55.374006398793902,
+        "Longitude": 12.3086087579518,
+        "IsFavorite": 0,
+        "LatestActi": "2017-02-13 12:21:10 +0000",
+        "DataType": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.3086087579518, 55.374006398793902 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2762600",
+        "Name": "TERRA NOVA BRANDE ApS",
+        "Address": "Trollesmindealle 25",
+        "AreaCode": 3400,
+        "City": "Hiller?d",
+        "State": "NULL",
+        "Latitude": 55.923597554112497,
+        "Longitude": 12.283926268620201,
+        "IsFavorite": 0,
+        "LatestActi": "2016-04-15 10:52:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.283926268620201, 55.923597554112497 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2765109",
+        "Name": "Norisol A/S Fayard",
+        "Address": "Lind?alleen 150",
+        "AreaCode": 5330,
+        "City": "Munkebo",
+        "State": "NULL",
+        "Latitude": 55.464339122154001,
+        "Longitude": 10.5432828120852,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 10.5432828120852, 55.464339122154001 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2774703",
+        "Name": "Cookii v/Maureen M?ller Jensen",
+        "Address": "?stergade 1",
+        "AreaCode": 8500,
+        "City": "Grenaa",
+        "State": "NULL",
+        "Latitude": 56.413706257398999,
+        "Longitude": 10.8768442314159,
+        "IsFavorite": 0,
+        "LatestActi": "2016-12-12 07:45:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 10.8768442314159, 56.413706257398999 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2798885",
+        "Name": "Cykelshoppen Aalborg V/Dan Schmidt",
+        "Address": "Aresvej 10",
+        "AreaCode": 9210,
+        "City": "Aalborg S?",
+        "State": "NULL",
+        "Latitude": 57.011479611641697,
+        "Longitude": 9.9419668872805307,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-10 08:04:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.941966887280531, 57.011479611641697 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2827412",
+        "Name": "Salon Gaia v/Camilla Skj?dt",
+        "Address": "Solvangs All? 34",
+        "AreaCode": 8500,
+        "City": "Grenaa",
+        "State": "NULL",
+        "Latitude": 56.417724998157901,
+        "Longitude": 10.8833524147696,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-09 10:59:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 10.8833524147696, 56.417724998157901 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2868736",
+        "Name": "Vickys hundesalon v/Vicky Olsen Nielsen",
+        "Address": "Bredevadvej 38",
+        "AreaCode": 6372,
+        "City": "Bylderup-Bov",
+        "State": "NULL",
+        "Latitude": 54.979300472456501,
+        "Longitude": 9.15695523821352,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-02 14:20:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.15695523821352, 54.979300472456501 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2957303",
+        "Name": "S?nderjysk Multiservice",
+        "Address": "Ndr. Ringvej 78",
+        "AreaCode": 6000,
+        "City": "Kolding",
+        "State": "NULL",
+        "Latitude": 55.495590619779001,
+        "Longitude": 9.4738238174669398,
+        "IsFavorite": 0,
+        "LatestActi": "2016-10-04 08:00:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.47382381746694, 55.495590619779001 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2960336",
+        "Name": "Fly Bunny Fly",
+        "Address": "Bygv?nget 253",
+        "AreaCode": 2980,
+        "City": "Kokkedal",
+        "State": "NULL",
+        "Latitude": 55.9065032783476,
+        "Longitude": 12.4825871055075,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 12.4825871055075, 55.9065032783476 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2963173",
+        "Name": "Aabo S?rensen Ejendomme ApS",
+        "Address": "Marshalls Alle 125",
+        "AreaCode": 9220,
+        "City": "Aalborg ?st",
+        "State": "NULL",
+        "Latitude": 57.012579305641303,
+        "Longitude": 9.9594808603705296,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-10 08:04:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.95948086037053, 57.012579305641303 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2972684",
+        "Name": "ESN Kolding",
+        "Address": "Skamlingvejen 32",
+        "AreaCode": 6000,
+        "City": "Kolding",
+        "State": "NULL",
+        "Latitude": 55.485042534075902,
+        "Longitude": 9.4867925118282805,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-23 08:58:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.486792511828281, 55.485042534075902 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "2997219",
+        "Name": "Responce A/S Station Kolding",
+        "Address": "Caspar M?llers Gade 2",
+        "AreaCode": 6000,
+        "City": "Kolding",
+        "State": "NULL",
+        "Latitude": 55.488506365175702,
+        "Longitude": 9.4831676053725005,
+        "IsFavorite": 0,
+        "LatestActi": "NULL",
+        "DataType": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.4831676053725, 55.488506365175702 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "3858796",
+        "Name": "AGH-Pro ApS",
+        "Address": "Vilstrupvej 140",
+        "AreaCode": 6100,
+        "City": "Haderslev",
+        "State": "NULL",
+        "Latitude": 55.2193267455526,
+        "Longitude": 9.4985868811968999,
+        "IsFavorite": 0,
+        "LatestActi": "2016-11-03 08:37:00 +0000",
+        "DataType": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 9.4985868811969, 55.2193267455526 ]
+      }
+    }
+  ],
+  "properties": 
+  {
+
+    "values":
+    {
+      "1": "2015",
+      "2": "2016",
+      "3": "2017"
+    },
+    "name": "year",
+    "query":"DataType"
+  }
+}
